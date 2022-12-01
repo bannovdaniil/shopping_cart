@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Магазин</string>
+    <string name="count_query">Укажите \nколичество:</string>
+</resources>
